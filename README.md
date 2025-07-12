@@ -1,10 +1,14 @@
-<h2>Hey 👋, I'm <a href="https://github.com/AliAhmed">Ali Ahmed</a></h2>
+<h2>Hey 👋, I'm <a href="https://github.com/Ali-AhmedAli">Ali Ahmed</a></h2>
 
 <p>🎓 I'm a second-year Computer Science student passionate about **AI Engineering**, **Computer Vision**, and building intelligent systems. Currently learning advanced Python, Java, and working on cool projects like **Face Recognition Systems**, **RAG with LLaVA**, and interactive Python tools.</p>
 
 <p>🌱 I'm growing my skills in **LLMs**, **Machine Learning**, and **Data Engineering**, and my goal is to become a **strong AI engineer**.</p>
 
-<p><a href="https://github.com/AliAhmed"><img src="https://img.shields.io/badge/-AliAhmed-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Github&amp;link=https://github.com/AliAhmed" alt="GitHub Badge"></a> <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-AliAhmed-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/your-link" alt="LinkedIn Badge"></a> <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&amp;labelColor=D14836&amp;logo=Gmail&amp;link=mailto:your-email@gmail.com" alt="Email Badge"></a></p>
+<p>
+<a href="https://github.com/Ali-AhmedAli"><img src="https://img.shields.io/badge/-Ali-AhmedAli-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Github&amp;link=https://github.com/Ali-AhmedAli" alt="GitHub Badge"></a> 
+<a href="https://linkedin.com/in/ali-ahmed-525011334"><img src="https://img.shields.io/badge/-Ali Ahmed-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ali-ahmed-525011334" alt="LinkedIn Badge"></a> 
+<a href="mailto:aliahmedali78mohamed1977@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&amp;labelColor=D14836&amp;logo=Gmail&amp;link=mailto:aliahmedali78mohamed1977@gmail.com" alt="Email Badge"></a>
+</p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -14,9 +18,9 @@
 <ul>
 <li>🔭 I’m currently working on a <strong>Face Recognition Employee Monitoring System</strong> using Python & OpenCV.</li>
 <li>🧐 Learning about <strong>AI Engineering</strong>, <strong>Vector Databases</strong>, and <strong>LLM fine-tuning</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliAhmed">GitHub</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Ali-AhmedAli">GitHub</a>.</li>
 <li>💬 Ask me about <strong>Python, OpenCV, AI, and RAG systems</strong>.</li>
-<li>📙 Check out my <a href="https://github.com/AliAhmed">GitHub portfolio</a>.</li>
+<li>📙 Check out my <a href="https://github.com/Ali-AhmedAli">GitHub portfolio</a>.</li>
 <li>🎉 Fun Fact: I love simplifying AI concepts for others 🌟</li>
 </ul>
 
@@ -37,6 +41,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliAhmed&show_icons=true&count_private=true" alt="AliAhmed GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-AhmedAli&show_icons=true&count_private=true" alt="Ali-AhmedAli GitHub stats" />
 
-<p><a href="http://hits.dwyl.com/AliAhmed/AliAhmed.svg?style=flat-square"><img src="https://hits.dwyl.com/AliAhmed/AliAhmed.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="http://hits.dwyl.com/Ali-AhmedAli/Ali-AhmedAli.svg?style=flat-square"><img src="https://hits.dwyl.com/Ali-AhmedAli/Ali-AhmedAli.svg?style=flat-square" alt="HitCount"></a></p>
