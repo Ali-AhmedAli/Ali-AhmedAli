@@ -11,11 +11,11 @@
 ## 🧠 About Me
 
 ```python
-ali = {
+Ali = {
     "name"         : "Ali Ahmed Ali",
     "github"       : "Ali-AhmedAli",
     "location"     : "Cairo, Egypt 🇪🇬",
-    "education"    : "2nd Year CS Student",
+    "education"    : "CS Student",
     "current_focus": "Data Engineering ⚙️",
     "background"   : "ML | Computer Vision | RAG Systems",
     "goal"         : "Build reliable data infrastructure that powers intelligent systems 🚀",
@@ -51,7 +51,6 @@ ali = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
