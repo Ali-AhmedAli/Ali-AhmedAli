@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ali+Ahmed+👋;CS+Student+%40+Cairo+🇪🇬;Data+Engineer+in+the+making+⚙️;ML+%7C+CV+%7C+Data+Science+Nerd+🤖" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Student%20%7C%20AI%20Background%20→%20Data%20Engineering%20%7C%20Cairo%20🇪🇬&descAlignY=58&descSize=16" />
 
-<br/>
-
-<!-- Banner / Avatar area -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Ahmed%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Pipelines%20%7C%20Crunching%20Data%20%7C%20Reading%20Books&descAlignY=55&descSize=16" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+⚙️;Background+in+ML+%26+Computer+Vision+🧠;Turning+AI+experience+into+Engineering+🔄;Cairo%2C+Egypt+🇪🇬" alt="Typing SVG" />
 
 </div>
 
@@ -16,50 +12,53 @@
 
 ```python
 ali = {
-    "name"        : "Ali Ahmed Ali",
-    "aka"         : "Ali-AhmedAli",
-    "location"    : "Cairo, Egypt 🇪🇬",
-    "education"   : "Computer Science Student",
+    "name"         : "Ali Ahmed Ali",
+    "github"       : "Ali-AhmedAli",
+    "location"     : "Cairo, Egypt 🇪🇬",
+    "education"    : "2nd Year CS Student",
     "current_focus": "Data Engineering ⚙️",
-    "past_adventures": ["Machine Learning 🤖", "Computer Vision 👁️", "Data Science 📊"],
-    "hobby"       : "Reading 📚",
-    "fun_fact"    : "I went from teaching machines to see… to building the pipes that feed them 🔄",
+    "background"   : "ML | Computer Vision | RAG Systems",
+    "goal"         : "Build reliable data infrastructure that powers intelligent systems 🚀",
 }
 ```
 
----
-
-## 🚀 What I'm Up To
-
-- 🔭 &nbsp;Diving deep into **Data Engineering** — pipelines, orchestration & warehouses
-- 🌱 &nbsp;Leveling up with **Apache Spark**, **Airflow**, **dbt** & **Kafka**
-- 🧬 &nbsp;Background in **ML / Computer Vision / Data Science** — still very much alive
-- 📖 &nbsp;Currently reading something interesting (always)
+> I came from AI — now I'm building the pipes that feed it.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🎯 Current Focus
 
-#### ⚙️ Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+**Data Engineering** — learning how to design, build, and maintain the infrastructure behind data-driven systems.
+
+- 🔧 &nbsp;Pipelines, orchestration & data warehousing
+- 📦 &nbsp;Working with **Airflow**, **Spark**, **dbt**, and **PostgreSQL**
+- 🌱 &nbsp;Applying my ML background to understand *what* the pipelines need to deliver
+
+---
+
+## 🧪 What I've Built
+
+- 👁️ &nbsp;**Face Recognition Employee Monitoring System** — Python & OpenCV
+- 🤖 &nbsp;**RAG with LLaVA** — Retrieval-Augmented Generation with a multimodal LLM
+- 🛠️ &nbsp;Various ML & Computer Vision projects on [GitHub](https://github.com/Ali-AhmedAli)
+
+---
+
+## 🛠️ Tools I Actually Use
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</p>
+
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🤖 ML / AI / CV
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🧰 Other Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Also familiar with:** OpenCV · PyTorch · TensorFlow · LangChain · MongoDB · Java
 
 ---
 
@@ -68,7 +67,7 @@ ali = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-AhmedAli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-AhmedAli&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-AhmedAli&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -78,31 +77,24 @@ ali = {
 
 ---
 
-## 🗺️ My Journey So Far
-
-```
-Data Science ──► Computer Vision ──► Machine Learning ──► Data Engineering ⚙️
-     📊                👁️                   🤖                  [YOU ARE HERE]
-```
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ahmed-525011334)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmedali78mohamed1977@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-AhmedAli)
+<a href="https://github.com/Ali-AhmedAli"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ali-ahmed-525011334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aliahmedali78mohamed1977@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+<a href="http://hits.dwyl.com/Ali-AhmedAli/Ali-AhmedAli"><img src="https://hits.dwyl.com/Ali-AhmedAli/Ali-AhmedAli.svg?style=flat-square" alt="HitCount" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-*"Data is the new oil — I'm just building the refinery."* ⚙️
+*"I came from AI — now I'm building the pipes that feed it."* ⚙️
 
 </div>
