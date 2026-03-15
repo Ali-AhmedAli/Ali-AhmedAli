@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Student%20%7C%20AI%20Background%20→%20Data%20Engineering%20%7C%20Cairo%20🇪🇬&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Data+Pipelines+⚙️;Background+in+ML+%26+Computer+Vision+🧠;Turning+AI+experience+into+Engineering+🔄;Cairo%2C+Egypt+🇪🇬" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Student%20%7C%20AI%20Background%20-%3E%20Data%20Engineering%20%7C%20Cairo&descAlignY=58&descSize=16" />
 
 </div>
 
